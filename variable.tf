@@ -1,10 +1,8 @@
 variable "accesskey" {
   type = "string"
-  default = "AKIA2BMETMCITHZ232OA"
 }
 variable "secretkey" {
    type = "string"
-  default = "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"
 }
 variable "ami" {
    type = "string"
